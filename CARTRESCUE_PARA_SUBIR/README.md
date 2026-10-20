@@ -49,5 +49,4 @@ La versión probada localmente fue Python 3.14.4 y no hay dependencias de runtim
 ## Enlaces públicos
 
 - Repositorio: [https://github.com/Incomu1/CARTRESCUE](https://github.com/Incomu1/CARTRESCUE)
-- Video: **pendiente de que el integrante responsable lo grabe y lo publique**.
-- Despliegue: **pendiente; no se ha implementado un despliegue público**.
+- 
