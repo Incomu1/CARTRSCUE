@@ -1,0 +1,12 @@
+metric,value
+opportunities_total,60
+intervened_total,20
+recovered_total,7
+recovery_rate,0.35
+recovered_revenue,875
+incentive_cost,8.91
+policy_blocks,40
+policy_compliance,1.0
+duplicate_interventions,0
+target_met,True
+policy_target_met,True

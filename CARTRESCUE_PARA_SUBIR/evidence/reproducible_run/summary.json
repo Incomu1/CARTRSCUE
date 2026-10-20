@@ -1,0 +1,40 @@
+{
+  "seed": 20261019,
+  "runs": 5,
+  "thresholds": {
+    "recovery_rate_min": 0.15,
+    "policy_compliance_min": 1.0,
+    "duplicate_interventions_max": 0
+  },
+  "metrics": {
+    "opportunities_total": 60,
+    "intervened_total": 20,
+    "recovered_total": 7,
+    "recovery_rate": 0.35,
+    "recovered_revenue": 875,
+    "incentive_cost": 8.91,
+    "policy_blocks": 40,
+    "policy_compliance": 1.0,
+    "duplicate_interventions": 0,
+    "target_met": true,
+    "policy_target_met": true
+  },
+  "posteriors": {
+    "email": [
+      3.0,
+      7.0
+    ],
+    "push": [
+      3.0,
+      8.0
+    ],
+    "incentive": [
+      3.0,
+      8.0
+    ],
+    "recommendation": [
+      10.0,
+      18.0
+    ]
+  }
+}
